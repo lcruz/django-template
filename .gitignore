@@ -1,0 +1,9 @@
+*.pyc
+local_settings.py
+db.sqlite3
+notebooks
+uploads/*
+media/*
+.DS_Store
+.vscode/
+
